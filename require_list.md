@@ -1,4 +1,4 @@
-# request list
+# require list
 
 ### Name                    Version                   Build  Channel
 
